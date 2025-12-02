@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "emailjs-com";
 
-import githubLogo from "../../public/github.png";
-import linkedinLogo from "../../public/linkedin.png";
-import gmailLogo from "../../public/gmail.png";
-import whatsappLogo from "../../public/whatsapp.png";
-import instagramLogo from "../../public/insta.png";
+import githubLogo from "/github.png?url";
+import linkedinLogo from "/linkedin.png?url";
+import gmailLogo from "/gmail.png?url";
+import whatsappLogo from "/whatsapp.png?url";
+import instagramLogo from "/insta.png?url";
 
 
 import "../CSS/Contact.css"
@@ -67,7 +67,6 @@ export default function Contact() {
   };
 
   const quickLinks = [
-    { img: githubLogo, title: "GitHub", link: "https://github.com/kunj2803" },
     { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/deven-hadkar29" },
     { img: gmailLogo, title: "Email", link: "mailto:hadkardeven@gmail.com" },
     { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+918850042376" },

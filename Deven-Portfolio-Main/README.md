@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
+🌐 **Website:** [[[Deven-Portfolio]]](https://deven-hadkar.vercel.app/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
@@ -40,10 +40,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/deven-hadkar/Deven-Portfolio-Main.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Deven-Portfolio-Main
 
 # 3️⃣ Install dependencies
 npm install
