@@ -1,0 +1,8 @@
+# Ignore build and dependencies
+Deven-Portfolio-Main/node_modules
+Deven-Portfolio-Main/dist
+
+# Common ignores
+node_modules
+dist
+.DS_Store
